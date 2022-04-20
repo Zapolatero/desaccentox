@@ -1,1 +1,22 @@
-// array containing every accent to replace coupled with their replacement letter
+{
+    "accents" : [
+        ["é","e"],
+        ["è", "e"],
+        ["ê", "e"],
+        ["ë", "e"],
+        ["ã", "a"],
+        ["à", "a"],
+        ["â", "a"],
+        ["ä", "a"],
+        ["ô", "o"],
+        ["ö", "o"],
+        ["ò", "o"],
+        ["õ", "o"],
+        ["ì", "i"],
+        ["î", "i"],
+        ["ï", "i"],
+        ["ù", "u"],
+        ["û", "u"],
+        ["ü", "u"]
+    ]
+}
